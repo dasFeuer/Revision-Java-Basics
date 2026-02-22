@@ -2,7 +2,6 @@ package Recursion;
 
 public class PrintNumber {
     static void main(String[] args) {
-        String[] arr = {"2", "a", "8", "e"};
         print(1);
     }
 
